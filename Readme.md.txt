@@ -1,0 +1,5 @@
+- I'm using Visual studio code for this assesment
+- intall extension "live server" on VS code and run the code on a server
+- I have used SCSS for this task
+- install "live SCSS compiler" to run the SCSS file and convert it to CSS
+- Clone the respository and run as mentioned above
